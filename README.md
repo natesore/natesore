@@ -1,5 +1,7 @@
 ## Hi there 👋
+I am a technical writer by trade, but have an MBA in data analytics and have experience working in Python in a data capacity. I am here to learn and share what I have learned! 
 
+I am currently working on building a repository for exploratory data analysis of lesser-used datasets. 
 <!--
 **natesore/natesore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
